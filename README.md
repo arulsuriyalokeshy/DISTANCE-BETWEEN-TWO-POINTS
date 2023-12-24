@@ -15,7 +15,8 @@ We do this buy using the sqrt function
 ### Step 5: 
 Print the value
 ### PROGRAM:
-```Program to find the distance between two points.
+```python
+Program to find the distance between two points.
 Developed by:s.suriya prakash 
 RegisterNumber:23013599
 import math
